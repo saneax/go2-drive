@@ -1,0 +1,4 @@
+client_secret*
+./client_secret.json
+.swp
+.bundle*
